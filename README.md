@@ -46,4 +46,3 @@ Compared three algorithms on a 60/20/20 train/validation/test split:
 ## Business Applications
 - **Government Policy:** Predict happiness impact of economic and social interventions  
 - **Development Organizations:** Optimize aid allocation based on happiness ROI  
-- **Corporate Social Responsibility:** Guide community investment strategies  
